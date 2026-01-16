@@ -1,0 +1,15 @@
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfoInputs.cache
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.AssemblyInfo.cs
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.sourcelink.json
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.exe
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.deps.json
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.runtimeconfig.json
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.dll
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\bin\Debug\net9.0\ExemploFundamentos.pdb
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.dll
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\refint\ExemploFundamentos.dll
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.pdb
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ExemploFundamentos.genruntimeconfig.cache
+C:\Users\Aline Fernandes\Documents\repositorios_aline\BootcampDioTivit\ExemploFundamentos\obj\Debug\net9.0\ref\ExemploFundamentos.dll
