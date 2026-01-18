@@ -1,4 +1,27 @@
-﻿using ExemploFundamentos.Models;
+﻿//using ExemploFundamentos.Models;
+
+//operadores codicionais
+
+int quantidadeEmEstoque = 10;
+int quantidadeCompra = 4;
+bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+
+Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+Console.WriteLine($"É possível realizar a venda? {possivelVenda}");
+
+if (possivelVenda)
+{
+    Console.WriteLine("Venda realizada.");
+}
+else
+{
+    Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque. ");
+}
+
+
+
+//-------------------------------------------------
 
 /*operadores de atribuição
 int a = 10;
@@ -9,8 +32,8 @@ int c = a + b;
 c += 5; //é o mesmo que c = c + 5;
 
 Console.WriteLine(c); */
-//-----------------------------------------------
 
+//-----------------------------------------------
 
 //cast - Casting - conversão com convert aceita valor null, conversão com Parse não aceita null
 /*int a = Convert.ToInt32("5"); //converter string em int
@@ -21,7 +44,9 @@ int inteiro = 5;
 string a = inteiro.ToString();
 
 Console.WriteLine(a);*/
+
 //-------------------------------------------------
+
 /*tipos de dados
 string apresentacao = "Olá, seja bem vindo";
 int quantidade = 1;
@@ -43,6 +68,7 @@ Console.WriteLine("Valor da variável condicao: " + condicao);*/
 
 
 //-------------------------------------------------
+
 /*Pessoa pessoa1 = new Pessoa();
 
 pessoa1.Nome = "Aline";
